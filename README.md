@@ -15,7 +15,7 @@ Explore the [examples](examples) directory to see the SDK in action, and read ou
 
 ## Get started
 
-1. Set up your Python environment:
+1. Set up your Python environment like this:
 
 ```
 python -m venv env
